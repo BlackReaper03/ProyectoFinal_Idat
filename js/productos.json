@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Case-01",
+        "titulo": "Case 01",
+        "imagen": "./img/Cases/01.jpg",
+        "categoria": {
+            "nombre": "Cases",
+            "id": "cases"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Case-02",
+        "titulo": "Case 02",
+        "imagen": "./img/Cases/02.jpg",
+        "categoria": {
+            "nombre": "Cases",
+            "id": "cases"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Case-03",
+        "titulo": "Case 03",
+        "imagen": "./img/Cases/03.jpg",
+        "categoria": {
+            "nombre": "Cases",
+            "id": "cases"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Case-04",
+        "titulo": "Case 04",
+        "imagen": "./img/Cases/04.jpg",
+        "categoria": {
+            "nombre": "Cases",
+            "id": "cases"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Case-05",
+        "titulo": "Case 05",
+        "imagen": "./img/Cases/05.jpg",
+        "categoria": {
+            "nombre": "Cases",
+            "id": "cases"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-01",
+        "titulo": "Teclado 01",
+        "imagen": "./img/Teclados/01.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-02",
+        "titulo": "Teclado 02",
+        "imagen": "./img/Teclados/02.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-03",
+        "titulo": "Teclado 03",
+        "imagen": "./img/Teclados/03.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-04",
+        "titulo": "Teclado 04",
+        "imagen": "./img/Teclados/04.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-05",
+        "titulo": "Teclado 05",
+        "imagen": "./img/Teclados/05.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-06",
+        "titulo": "Teclado 06",
+        "imagen": "./img/Teclados/06.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-07",
+        "titulo": "Teclado 07",
+        "imagen": "./img/Teclados/07.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Teclado-08",
+        "titulo": "Teclado 08",
+        "imagen": "./img/Teclados/08.jpg",
+        "categoria": {
+            "nombre": "Teclados",
+            "id": "teclados"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mouse-01",
+        "titulo": "Mouse 01",
+        "imagen": "./img/Mouses/01.jpg",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mouse-02",
+        "titulo": "Mouse 02",
+        "imagen": "./img/Mouses/02.jpg",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mouse-03",
+        "titulo": "Mouse 03",
+        "imagen": "./img/Mouses/03.jpg",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mouse-04",
+        "titulo": "Mouse 04",
+        "imagen": "./img/Mouses/04.jpg",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Mouse-05",
+        "titulo": "Mouse 05",
+        "imagen": "./img/Mouses/05.jpg",
+        "categoria": {
+            "nombre": "Mouses",
+            "id": "mouses"
+        },
+        "precio": 1000
+    }
+]

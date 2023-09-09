@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tienda</title>
+    <link rel="stylesheet" type="text/css" href="/public/css/style.css">
+</head>
+<body>
+    <h1>Bienvenido a la Tienda</h1>
+    <!-- Contenido de la tienda -->
+    
+    <% if (user) { %>
+      <a href="/logout">Cerrar Sesión</a>
+    <% } else { %>
+      <a href="/login">Iniciar Sesión</a>
+    <% } %>
+</body>
+</html>
